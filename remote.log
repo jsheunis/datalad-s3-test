@@ -1,1 +1,1 @@
-5833273a-1b44-4a18-9d01-39ab49ae539a bucket=jsheunis-public datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1620807881.50989s
+5833273a-1b44-4a18-9d01-39ab49ae539a bucket=jsheunis-public datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes publicurl=https://jsheunis-public.s3-eu-west-1.amazonaws.com storageclass=STANDARD type=S3 timestamp=1620808007.691823s
